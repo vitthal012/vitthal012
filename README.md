@@ -2,7 +2,7 @@
 # 👋 Hello! I'm Vitthal Srivastava
 
 **Computer Science and Engineering Student**  
-**Vellore Institute of Technology (VIT), Vellore**  
+**Vellore Institute of Technology (VIT), Bhopal**  
 
 I’m a passionate tech enthusiast with a love for exploring innovative solutions in programming and app development. I’m currently diving deep into the world of UI/UX design, Android development, and artificial intelligence, and I’m always looking for ways to contribute to impactful projects.
 
